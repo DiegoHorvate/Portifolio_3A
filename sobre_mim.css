@@ -67,7 +67,7 @@ border-radius: 50%;
 .container {
     display: flex;
     justify-content: center;
-    align-items: left;
+    align-items: center;
     height: 100%;
 }
 

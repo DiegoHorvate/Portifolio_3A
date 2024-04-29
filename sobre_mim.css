@@ -64,14 +64,14 @@ border-radius: 50%;
 
 /* SOBRE MIM */
 
-.container {
+.container1 {
     display: flex;
     justify-content: left;
     align-items: left;
     height: 100%;
 }
 
-.box-area {
+.box-area1 {
     background-color: #FFFFFF;
     width: 800px; 
     margin-top: 5%;
